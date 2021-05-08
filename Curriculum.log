@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.4)  8 MAY 2021 00:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.4)  8 MAY 2021 00:39
 entering extended mode
 **./Curriculum.tex
 (Curriculum.tex
@@ -6,8 +6,8 @@ LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count179
 \c@section=\count180
@@ -879,23 +879,23 @@ LaTeX Font Info:    ... okay on input line 24.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 497.92325pt, 71.13188pt)
+* h-part:(L,W,R)=(56.9055pt, 469.47049pt, 71.13188pt)
 * v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=497.92325pt
+* \textwidth=469.47049pt
 * \textheight=686.7347pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1007,7 +1007,7 @@ LaTeX Font Info:    Trying to load font information for OMX+lmex on input line
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <10.95> on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1024,60 +1024,45 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 51--51
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 51--51
 [][] 
  []
 
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 55--55
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 55--55
 [][] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--60
-[]\T1/lmr/m/n/12 Responsible for maintaining, operating, and updating
+[]\T1/lmr/m/n/10.95 Responsible for maintaining, operating, and updating
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
-\T1/lmr/m/n/12 macroeconomic models used for monetary policy
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 57--60
-\T1/lmr/m/n/12 recommendations for the Central Reserve Bank of Peru's
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 64--64
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 64--64
 [][] 
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 69--72
-[]\T1/lmr/m/n/12 Econometrics: Macroeconometrics, microeconometrics, and
+Underfull \hbox (badness 5403) in paragraph at lines 69--72
+[]\T1/lmr/m/n/10.95 Econometrics: Macroeconometrics, microeconometrics, and
  []
 
 [1
 
 {C:/Users/chris/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 81--81
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 81--81
 [][] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 89--91
-[]\T1/lmr/m/n/12 Universidad Nacional Agraria La Molina, Boston (2009 
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 92--92
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 92--92
 [][] 
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 96--98
-[]\T1/lmr/bx/n/12 Theory and Application of Dynamic Programming
+Underfull \hbox (badness 3838) in paragraph at lines 96--98
+[]\T1/lmr/bx/n/10.95 Theory and Application of Dynamic Programming
  []
 
 [2
@@ -1088,10 +1073,10 @@ Package rerunfilecheck Info: File `Curriculum.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25182 strings out of 479334
- 448395 string characters out of 2857085
- 736061 words of memory out of 3000000
- 42157 multiletter control sequences out of 15000+200000
- 432916 words of font info for 56 fonts, out of 3000000 for 9000
+ 448420 string characters out of 2857085
+ 736207 words of memory out of 3000000
+ 42158 multiletter control sequences out of 15000+200000
+ 432909 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,6n,131p,415b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chris/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C
@@ -1100,11 +1085,11 @@ somethree.enc}{C:/Users/chris/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fon
 tawesome/fontawesomeone.enc}{C:/Users/chris/AppData/Local/Programs/MiKTeX/fonts
 /enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/chris/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/chris/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/chris/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/chris/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/chris/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/chris/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Curriculum.pdf (2 pages, 144607 bytes).
+Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/chris/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb>
+Output written on Curriculum.pdf (2 pages, 145673 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
