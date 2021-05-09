@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.4)  8 MAY 2021 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.4)  9 MAY 2021 12:46
 entering extended mode
 **./Curriculum.tex
 (Curriculum.tex
@@ -852,24 +852,24 @@ File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 ) (Curriculum.aux)
 \openout1 = `Curriculum.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -930,7 +930,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 25.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -944,124 +944,129 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count324
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (Curriculum.out) (Curriculum.out)
 \@outlinefile=\write4
 \openout4 = `Curriculum.out'.
 
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 24.
+LaTeX Info: Redefining \selectfont on input line 25.
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 27.
+ut line 28.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 etwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 33.
+ut line 34.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 eone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 40.
+nput line 41.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
 ethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
-8.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+3.
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-8.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+3.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-48.
+53.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-48.
+53.
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 48.
+(Font)              <10.95> on input line 53.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <8> on input line 53.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 48.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+(Font)              <6> on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
 
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
 
 
 (C:\Users\chris\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 51--51
-[][] 
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 56--56
+[][][][] 
  []
 
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 55--55
-[][] 
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 60--60
+[][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 5203) in paragraph at lines 64--66
 []\T1/lmr/m/n/10.95 Responsible for maintaining, operating, and updating
  []
 
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 64--64
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\T1/lmr/m/n/10.95 macroeconomic models used for monetary policy
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 69--72
-[]\T1/lmr/m/n/10.95 Econometrics: Macroeconometrics, microeconometrics, and
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 70--70
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
  []
 
 [1
 
 {C:/Users/chris/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 81--81
-[][] 
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 85--85
+[][][][] 
  []
 
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 92--92
-[][] 
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 96--96
+[][][][] 
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 96--98
+Underfull \hbox (badness 3838) in paragraph at lines 100--102
 []\T1/lmr/bx/n/10.95 Theory and Application of Dynamic Programming
  []
 
@@ -1072,11 +1077,11 @@ Package rerunfilecheck Info: File `Curriculum.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25182 strings out of 479334
- 448420 string characters out of 2857085
- 736207 words of memory out of 3000000
- 42158 multiletter control sequences out of 15000+200000
- 432909 words of font info for 56 fonts, out of 3000000 for 9000
+ 25185 strings out of 479334
+ 448455 string characters out of 2857085
+ 736309 words of memory out of 3000000
+ 42160 multiletter control sequences out of 15000+200000
+ 435907 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,6n,131p,415b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chris/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C
@@ -1086,12 +1091,13 @@ tawesome/fontawesomeone.enc}{C:/Users/chris/AppData/Local/Programs/MiKTeX/fonts
 /enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/chris/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/chris/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/chris/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/chris/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/chris/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/chris/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb>
-Output written on Curriculum.pdf (2 pages, 145673 bytes).
+Output written on Curriculum.pdf (2 pages, 170958 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
